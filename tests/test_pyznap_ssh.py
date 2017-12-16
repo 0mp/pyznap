@@ -15,7 +15,6 @@ import string
 from tempfile import NamedTemporaryFile
 from datetime import datetime
 import pytest
-import paramiko as pm
 
 sys.path.append(os.path.dirname(os.path.abspath(__file__)) + '/../src')
 import pyzfs as zfs
