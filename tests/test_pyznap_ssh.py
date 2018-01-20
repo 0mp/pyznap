@@ -2,7 +2,7 @@
 """
 Created on Sat Dec 09 2017
 
-@author: cythoning
+@author: yboetz
 
 ssh tests for pyznap
 """

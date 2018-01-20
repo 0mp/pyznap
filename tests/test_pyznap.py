@@ -2,7 +2,7 @@
 """
 Created on Tue Nov 28 2017
 
-@author: cythoning
+@author: yboetz
 
 Tests for pyznap
 """

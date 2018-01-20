@@ -3,7 +3,7 @@
 """
 Created on Sat Aug 12 2017
 
-@author: cythoning
+@author: yboetz
 
 ZFS snapshot tool written in python.
 """

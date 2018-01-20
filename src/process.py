@@ -1,7 +1,7 @@
 """
 Created on Sat Aug 12 2017
 
-@author: stevedrake, cythoning
+@author: stevedrake, yboetz
 
 Catch ZFS subprocess errors, forked from https://bitbucket.org/stevedrake/weir/
 """

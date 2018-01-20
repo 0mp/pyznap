@@ -1,7 +1,7 @@
 """
 Created on Wed Dec 06 2017
 
-@author: cythoning
+@author: yboetz
 
 Send snapshots
 """
